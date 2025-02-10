@@ -5,8 +5,8 @@ import time
 from bs4 import BeautifulSoup
 
 # Telegram Bot Settings
-TELEGRAM_BOT_TOKEN = "YOUR_BOT_TOKEN"
-TELEGRAM_CHAT_ID = "YOUR_CHAT_ID"
+TELEGRAM_BOT_TOKEN = "7085535354:AAF0HWAYmQa6iK0ExwoVSsCXYrGX148O_K8"
+TELEGRAM_CHAT_ID = "-1002446755103"
 
 def send_telegram_message(message):
     """Sends a message to the Telegram group."""

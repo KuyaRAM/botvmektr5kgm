@@ -1,13 +1,1 @@
-https://letawuik.insight.cg/en/shop/product/biere-locale-33-export-358 | square | square_credit_card | Auth : False | 1.5s
-https://easemart.ph/shop/product/100ml-sterile-water-153?category=33 | NA | NA | Auth : False | 1.4s
-https://waters.com.ph/shop/product/set-153-my-water-jug-33 | NA | NA | Auth : False | 0.6s
-https://culinarydelights-natick.com/shop/product/cofee-33 | square | square_credit_card | Auth : False | 1.5s
-https://engkantao.shop/product/power-earings-33/ | paypal | paypal_express | Auth : True | 1.6s
-https://engkantao.shop/product/power-earings-33/ | square | square_credit_card | Auth : True | 1.6s
-https://engkantao.shop/product/power-earings-33/ | paypal | paypal_express | Auth : True | 1.4s
-https://engkantao.shop/product/power-earings-33/ | square | square_credit_card | Auth : True | 1.4s
-https://pixelplanet.shop/product/photo-frame-33-10-x-8/ | square | square_credit_card | Auth : True | 4.0s
-https://pixelplanet.shop/product/photo-frame-33-10-x-8/ | 2checkout | 2checkout_payment | Auth : True | 4.0s
-https://www.homecaresupplies.shop/shop/product/501-sweet-sweet-dream-washable-pillow-33-oz-5227?page=5 | NA | NA | Auth : False | 1.2s
-https://www.isny.de/shop/product/isny-beeswax-lunch-wrap/?lang=en | braintree | braintree_credit_card | Auth : True | 1.0s
-https://mypaintedbear.co.uk/shop/product-category/greeting-cards/celebrations/ | paypal | paypal_express | Auth : True | 4.8s
+
